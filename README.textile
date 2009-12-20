@@ -1,0 +1,7 @@
+h1. About
+
+This is bundle for support "Node.js":http://nodejs.org in "TextMate":http://macromates.com. It has run command and also some snippets.
+
+h1. Usage
+
+Just clone this repository and then double-click on the Node.js.tmbundle. TextMate should copy the bundle to your other bundles and you should be able to use it.
